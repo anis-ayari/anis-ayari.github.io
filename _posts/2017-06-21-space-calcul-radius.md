@@ -3,7 +3,10 @@ layout: post
 title: How calculate a coverage area for a satellite ?
 subtitle: Explanation and computation details to find the coverage area of a satellite
 image: /img/coverage-example.png
-tags: [physics, space]
+tags:
+  - physics
+  - space
+published: true
 ---
 In this post we will try to find, in a trigonometric and equations way, how can we find the coverage area of a satellite.
 
