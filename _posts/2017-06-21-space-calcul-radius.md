@@ -10,7 +10,7 @@ published: true
 ---
 In this post we will try to find, in a trigonometric and equations way, how can we find the coverage area of a satellite.
 
-SpaceX in a FCC applicaiton provide this picture : ![Image of Yaktocat](https://octodex.github.com/img/blog/spacex-fcc.png)
+SpaceX in a FCC applicaiton provide this picture : ![spacex picture](https://anisayari.github.com/img/blog/spacex-fcc.png)
 
 
 **Here is some bold text**
