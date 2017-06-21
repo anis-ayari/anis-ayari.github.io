@@ -23,7 +23,7 @@ description: Personnal website and portfolio of Anis AYARI
 
 # List of links in the navigation bar
 navbar-links:
-  Blog : "/"
+  Blog : ""
   About Me: "aboutme"
   
 
