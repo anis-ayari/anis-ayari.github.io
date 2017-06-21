@@ -5,8 +5,10 @@ subtitle: Explanation and computation details to find the coverage area of a sat
 image: /img/coverage-example.png
 tags: [physics, space]
 ---
+In this post we will try to find, in a trigonometric and equations way, how can we find the coverage area of a satellite.
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+SpaceX in a FCC applicaiton provide this picture : ![Image of Yaktocat](https://octodex.github.com/img/blog/spacex-fcc.png)
+
 
 **Here is some bold text**
 
